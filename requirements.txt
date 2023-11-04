@@ -113,7 +113,7 @@ opt-einsum==3.3.0
     # via tensorflow
 packaging==23.0
     # via tensorflow
-pillow==9.4.0
+pillow==10.0.1
     # via -r requirements.in
 proto-plus==1.22.2
     # via google-cloud-pubsub
