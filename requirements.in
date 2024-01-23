@@ -12,5 +12,5 @@ absl-py~=1.4.0
 cachetools~=5.2.0
 opencv-python~=4.7.0
 mock~=3.0.5
-pillow~=9.4.0
+pillow~=10.2.0
 hcls_imaging_ml_toolkit @ git+https://github.com/GoogleCloudPlatform/healthcare.git@57c66830#subdirectory=imaging/ml/toolkit
